@@ -1,5 +1,5 @@
 # PRCV2024_SARDet100k_Top1_solution
-This repo is the top1 solution (team XXXR) for PRCV2024 SARDet contest.
+This repo is the top1 solution (team XXXR) for [PRCV2024 SARDet contest](https://bohrium.dp.tech/competitions/6816082019?tab=introduce).
 # TODOs
 - [ ] update README
 - [x] add code 
